@@ -1,0 +1,14 @@
+remote_theme: mickaellambert-training/workshops-theme
+
+titles_from_headings:
+  enabled: false
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default" # possible values: default or tic-tac
+
+title: 'HTML/CSS Basics'
+description: 'Integration - part I'
+show_clone: false
