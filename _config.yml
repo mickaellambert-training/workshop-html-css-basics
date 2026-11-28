@@ -1,4 +1,4 @@
-remote_theme: mickaellambert-training/workshops-theme
+remote_theme: mickaellambert-training/training-theme
 
 titles_from_headings:
   enabled: false
